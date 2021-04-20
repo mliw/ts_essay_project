@@ -91,4 +91,4 @@ save data/1_Make_Forecast.dta, replace
 //	}
 //	regress cpi_index_y L(0/1).cpi_index_x if date<p & date>=p-24
 //}
-、、giacross cpi_index_y Treasury_10_forecast benchmark_forecast, window(30) alpha(0.05) nw(3)
+//giacross cpi_index_y Treasury_10_forecast benchmark_forecast, window(30) alpha(0.05) nw(3)
