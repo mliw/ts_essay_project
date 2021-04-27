@@ -19,5 +19,5 @@ giacross cpi_index_y machinelearning_out_of_sample benchmark_forecast, window(30
 graph export "pics/machinelearning_out_of_sample.jpg",as(jpg) name("Graph") quality(100)
 
 giacross cpi_index_y machinelearning_out_of_sample Treasury_10_forecast, window(30) alpha(0.05) nw(3)
-graph export "pics/machinelearning_out_of_sample.jpg",as(jpg) name("Graph") quality(100)
+graph export "pics/machinelearning_out_of_sample_treasury10.jpg",as(jpg) name("Graph") quality(100)
 
