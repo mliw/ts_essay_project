@@ -1,0 +1,11 @@
+,Model Type,Break Point,Performance
+0,Int_Rate_forecast,2010-04,worse after break point
+1,Treasury_1_forecast,2008-09,worse after break point
+2,Treasury_5_forecast,2008-09,worse after break point
+3,Treasury_10_forecast,2008-08,worse after break point
+4,CSI_300_forecast,2004-08,better after break point
+5,d_M2_forecast,2009-11,better after break point
+6,d_M1_forecast,2010-01,worse after break point
+7,d_M0_forecast,2009-02,better after break point
+8,machinelearning_out_of_sample,2011-12,worse after break point
+9,timevary_forecast,2008-10,worse after break point
