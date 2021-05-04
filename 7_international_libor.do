@@ -23,4 +23,4 @@ graph export "pics/ffr_benchmark.jpg",as(jpg) name("Graph") quality(100)
 
 // ffr vs Int_Rate
 giacross cpi_index_y ffr_forecast Int_Rate_forecast, window(30) alpha(0.05) nw(3)
-graph export "pics/ffr_Int_Ratejpg",as(jpg) name("Graph") quality(100)
+graph export "pics/ffr_Int_Rate.jpg",as(jpg) name("Graph") quality(100)
